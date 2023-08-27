@@ -1,0 +1,33 @@
+.mentorhub {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.mentorhub_button {
+  width: 202.14px;
+  height: 75px;
+  border-radius: 18px;
+  padding: 26px 31px 26px 31px;
+  gap: 10px;
+  background-color: #00487c;
+  margin-left:20px;
+}
+.mentorhub_para {
+  width: 472;
+  font-weight:400;
+  height: 240px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  size: 20px;
+  line-height: 30px;
+  letter-spacing: 1%;
+  margin-left: 20px;
+}
+.image {
+    border-top-right-radius:400px;
+    border-bottom-left-radius: 250px;
+    margin-top: 50px;
+}
+.heading{
+    margin-left: 20px;
+}

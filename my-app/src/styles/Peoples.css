@@ -1,0 +1,48 @@
+.peoples{
+    >h1{
+        margin-left: 50px;
+        width: 900;
+        display: flex;
+        justify-content: center;
+        font-family: 'Montserrat';
+        letter-spacing: 3px;
+        size: 48px;
+        font-size: 50px;
+        margin-top: 13%;
+    }
+}
+
+.person{
+    flex-direction: row;
+    display: flex;
+    >img{
+        border-radius: 50%;
+        width: 77px;
+        height: 77px;
+    }
+
+    >h1{
+        font-weight: 400;
+        size: 20px;
+        line-height: 30px;
+        font-family: 'Open Sans';
+        letter-spacing: 1%;
+        color: #00487c;
+        margin-left: 4%;
+    }
+}
+
+.im{
+    display: flex;
+    
+}
+
+.peoples__persons{
+    flex-direction: row;
+    display: flex;
+    justify-content: center;
+    column-gap: 10%;
+    margin-top: 9%;
+    
+    
+}

@@ -1,0 +1,42 @@
+.comunity{
+    margin-top: 10%;
+    flex-direction: row;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.comunity_left{
+    >img{
+        border-radius: 14%;
+        
+    }
+}
+
+
+.comunity_right{
+    >h1{
+        margin-left: 50px;
+        width: 900;
+        font-family: 'Montserrat';
+        letter-spacing: 5px;
+        size: 48px;
+        font-size: 50px;
+    }
+
+    >p{
+        margin-left: 50px;
+    }
+    >button{
+        width: 219.14px;
+        height: 75px;
+        border-radius: 18px;
+        padding: 26px 40px 26px 40px;
+        gap: 10px;
+        background-color: #00487c;
+        margin-left: 50px;
+        margin-top: 7%;
+        color: white;
+        font-size: larger;
+    }
+}

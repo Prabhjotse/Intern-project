@@ -1,0 +1,45 @@
+.home {
+  display: flex;
+  align-items: center;
+}
+
+.home_heading {
+ font-weight: 900;
+font-family: 'Montserrat', ;
+ font: bold;
+ line-height: 78.02px;
+ margin-left: 30px;
+}
+.home__image {
+  width: 408px;
+  height: 562px;
+  margin-top: 139px;
+  margin-left: 350px;
+  border-radius: 16px;
+}
+.home_button_one {
+  width: 319px;
+  height: 75px;
+  border-radius: 18px;
+  padding: 26px 60px 26px 60px;
+  gap: 10px;
+  background-color: #00487c;
+  color: #ffffff;
+  margin-left: 15px;
+  font-family: "Poppins", sans-serif;
+  size: 18px;
+  font-weight: 600;
+}
+.home_button_two {
+  width: 202.14px;
+  height: 75px;
+  border-radius: 18px;
+  border: 1px;
+  padding: 26px 31px 26px 31px;
+  gap: 10px;
+  color: #00487c;
+  margin-left: 60px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  size: 18px;
+}

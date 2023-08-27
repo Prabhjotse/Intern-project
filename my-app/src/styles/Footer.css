@@ -1,0 +1,17 @@
+.footer {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+
+.footer_heading{
+    margin-left: 20%;
+    margin-top: 5%;
+    
+}
+.footer_image{
+    >img{
+        margin-left: 300px;
+        margin-top: 210px;
+    }
+}
